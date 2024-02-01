@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ayush0071
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Dart programming language
-- 💞️ I’m looking to collaborate on ...
+- 💞️ intern from ProdigyInfotech 
 - 📫 How to reach me, through Gmail
 
 <!---
